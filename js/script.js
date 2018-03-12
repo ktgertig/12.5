@@ -34,7 +34,7 @@ $(function() {
 	$(document).ready(function() {
     	getQuote();
     	$('.trigger').click(function() {
-       	 getQuote();
+       	    getQuote();
     	});
 	});
 });
